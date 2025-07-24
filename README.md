@@ -1,6 +1,6 @@
 # nvim
 
-Giving neo vim another try - (init.lua)[./init.lua]
+Giving neo vim another try - [init.lua](./init.lua)
 
 ## Plugins
 
